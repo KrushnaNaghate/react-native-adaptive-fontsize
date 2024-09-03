@@ -1,0 +1,25 @@
+{
+  "name": "react-native-responsivefontsize",
+  "version": "1.0.0",
+  "description": "A React Native utility for responsive font sizes with support for Android 14 font scaling.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-native-responsivefontsize.git"
+  },
+  "author": "Krushna Naghate",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react-native": "^0.63.4",
+    "react-native-size-matters": "^0.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2",
+    "@types/lodash": "^4.14.182"
+  }
+}
